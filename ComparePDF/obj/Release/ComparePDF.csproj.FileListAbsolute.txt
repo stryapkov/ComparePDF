@@ -1,0 +1,9 @@
+C:\Users\ДНС\Desktop\Программирование\С#\мои проекты шарп\ComparePDF\ComparePDF\bin\Release\ComparePDF.exe.config
+C:\Users\ДНС\Desktop\Программирование\С#\мои проекты шарп\ComparePDF\ComparePDF\bin\Release\ComparePDF.exe
+C:\Users\ДНС\Desktop\Программирование\С#\мои проекты шарп\ComparePDF\ComparePDF\bin\Release\ComparePDF.pdb
+C:\Users\ДНС\Desktop\Программирование\С#\мои проекты шарп\ComparePDF\ComparePDF\obj\Release\ComparePDF.Form1.resources
+C:\Users\ДНС\Desktop\Программирование\С#\мои проекты шарп\ComparePDF\ComparePDF\obj\Release\ComparePDF.Properties.Resources.resources
+C:\Users\ДНС\Desktop\Программирование\С#\мои проекты шарп\ComparePDF\ComparePDF\obj\Release\ComparePDF.csproj.GenerateResource.Cache
+C:\Users\ДНС\Desktop\Программирование\С#\мои проекты шарп\ComparePDF\ComparePDF\obj\Release\ComparePDF.exe
+C:\Users\ДНС\Desktop\Программирование\С#\мои проекты шарп\ComparePDF\ComparePDF\obj\Release\ComparePDF.pdb
+C:\Users\ДНС\Desktop\Программирование\С#\мои проекты шарп\ComparePDF\ComparePDF\obj\Release\ComparePDF.csprojResolveAssemblyReference.cache
